@@ -44,7 +44,5 @@
 ### My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgy-p&theme=default"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgy-p&theme=default"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgy-p&theme=default"/>
 </div>
 
