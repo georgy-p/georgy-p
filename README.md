@@ -18,7 +18,6 @@
 ### About me
 - 🌱 I’m currently learning **TypeScript**
 - 🔎 I'm looking for a job
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1VzR1JfUBZ2mBIubV2wUoYGXRXwZIfYas/view?usp=share_link)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/georgy-pigar-0b549625a/), [Telegram](https://t.me/pgeorgy) or [email](mailto:pigargeorge@gmail.com) 
 - 🌍 I speak Russian and English
 
